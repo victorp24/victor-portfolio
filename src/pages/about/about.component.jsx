@@ -36,17 +36,17 @@ const About = () => {
                                     <Col className="d-flex justify-content-center flex-wrap">
                                         <div>
                                             <a href="#contact">
-                                                <Button className="m-2" variant="outline-success">Let's talk</Button>
+                                                <Button className="m-2" variant="outline-success"><i className="fas fa-envelope-square"></i> Let's talk</Button>
                                             </a>
                                         </div>
                                         <div>
                                             <a href="https://github.com/victorp24">
-                                                <Button className="m-2" variant="outline-dark">GitHub</Button>
+                                                <Button className="m-2" variant="outline-dark"><i className="fab fa-github-square"></i> GitHub</Button>
                                             </a>
                                         </div>
                                         <div>
                                             <a href="https://www.linkedin.com/in/victor-angelo-parangue/">
-                                                <Button className="m-2" variant="outline-primary">LinkedIn</Button>
+                                                <Button className="m-2" variant="outline-primary"><i className="fab fa-linkedin"></i> LinkedIn</Button>
                                             </a>
                                         </div>
                                     </Col>
