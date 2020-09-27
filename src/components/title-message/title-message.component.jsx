@@ -27,7 +27,6 @@ const MyTitleMessage = styled.h1`
   }
 `;
 
-
 const TitleMessage = () => {
     return (
         <MyTitleMessage>
