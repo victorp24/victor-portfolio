@@ -55,10 +55,10 @@ const App = () => {
         </Container>
       </div>
       <Container className="container-box rounded">
-        <Fade duration={500}>
+        <Slide bottom duration={1000}>
           <hr />
           <TimeLine />
-        </Fade>
+        </Slide>
       </Container>
       <Container className="container-box rounded">
         <Fade duration={500}>
