@@ -172,7 +172,7 @@ const TimeLine = () => {
                           <li>User Registration and Login through Facebook</li>
                           <li>Profile customization</li>
                           <li>Search for pick-up sport games near you</li>
-                          <li>Create and host pick-up sport evens</li>
+                          <li>Create and host pick-up sport events</li>
                           <li>Receive push notifications about nearby events</li>
                         </ul>
                         <hr />
