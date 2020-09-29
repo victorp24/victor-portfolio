@@ -40,12 +40,12 @@ const About = () => {
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="https://github.com/victorp24">
+                                            <a href="https://github.com/victorp24" target="_blank">
                                                 <Button className="m-2" variant="outline-dark"><i className="fab fa-github-square"></i> GitHub</Button>
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="https://www.linkedin.com/in/victor-angelo-parangue/">
+                                            <a href="https://www.linkedin.com/in/victor-angelo-parangue/" target="_blank">
                                                 <Button className="m-2" variant="outline-primary"><i className="fab fa-linkedin"></i> LinkedIn</Button>
                                             </a>
                                         </div>
