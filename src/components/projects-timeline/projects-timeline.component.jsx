@@ -97,8 +97,8 @@ const TimeLine = () => {
                 </Accordion>
               </div>
               <div className="text-center">
-                <UrlButton href="https://www.bit.ly/2ZdTKKw" target="_blank">
-                  READ MORE
+                <UrlButton href="https://github.com/kelwishahy/NBA_Fantasy_League" target="_blank">
+                  SOURCE CODE
                 </UrlButton>
               </div>
             </div>
