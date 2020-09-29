@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/victor-portfolio/static/css/main.1d51ff31.chunk.css",
-    "main.js": "/victor-portfolio/static/js/main.e90b8353.chunk.js",
-    "main.js.map": "/victor-portfolio/static/js/main.e90b8353.chunk.js.map",
+    "main.js": "/victor-portfolio/static/js/main.efe03a93.chunk.js",
+    "main.js.map": "/victor-portfolio/static/js/main.efe03a93.chunk.js.map",
     "runtime-main.js": "/victor-portfolio/static/js/runtime-main.4392e4fa.js",
     "runtime-main.js.map": "/victor-portfolio/static/js/runtime-main.4392e4fa.js.map",
     "static/js/2.967241f5.chunk.js": "/victor-portfolio/static/js/2.967241f5.chunk.js",
     "static/js/2.967241f5.chunk.js.map": "/victor-portfolio/static/js/2.967241f5.chunk.js.map",
     "index.html": "/victor-portfolio/index.html",
-    "precache-manifest.2230eb27090b7137b42bc9a211eef91f.js": "/victor-portfolio/precache-manifest.2230eb27090b7137b42bc9a211eef91f.js",
+    "precache-manifest.230093c9563db22a6d7eabef550008c7.js": "/victor-portfolio/precache-manifest.230093c9563db22a6d7eabef550008c7.js",
     "service-worker.js": "/victor-portfolio/service-worker.js",
     "static/css/main.1d51ff31.chunk.css.map": "/victor-portfolio/static/css/main.1d51ff31.chunk.css.map",
     "static/js/2.967241f5.chunk.js.LICENSE.txt": "/victor-portfolio/static/js/2.967241f5.chunk.js.LICENSE.txt",
@@ -38,7 +38,7 @@
     "static/media/php.svg": "/victor-portfolio/static/media/php.176a41f0.svg",
     "static/media/profile.JPG": "/victor-portfolio/static/media/profile.70219def.JPG",
     "static/media/python.svg": "/victor-portfolio/static/media/python.146716bd.svg",
-    "static/media/rapidserve.png": "/victor-portfolio/static/media/rapidserve.3e32e69f.png",
+    "static/media/rapidserve.png": "/victor-portfolio/static/media/rapidserve.56176917.png",
     "static/media/react-bootstrap.svg": "/victor-portfolio/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react-router.svg": "/victor-portfolio/static/media/react-router.02419671.svg",
     "static/media/react.svg": "/victor-portfolio/static/media/react.4009eef3.svg",
@@ -48,12 +48,12 @@
     "static/media/slide2.webp": "/victor-portfolio/static/media/slide2.7256f309.webp",
     "static/media/slide3.webp": "/victor-portfolio/static/media/slide3.8e5b87b6.webp",
     "static/media/tasktop.png": "/victor-portfolio/static/media/tasktop.f8e950af.png",
-    "static/media/whosgotnext.png": "/victor-portfolio/static/media/whosgotnext.55ae5abe.png"
+    "static/media/whosgotnext.png": "/victor-portfolio/static/media/whosgotnext.93cfd0b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4392e4fa.js",
     "static/js/2.967241f5.chunk.js",
     "static/css/main.1d51ff31.chunk.css",
-    "static/js/main.e90b8353.chunk.js"
+    "static/js/main.efe03a93.chunk.js"
   ]
 }
