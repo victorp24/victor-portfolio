@@ -8,6 +8,7 @@ import L_WHOSGOTNEXT from "../../assets/img/projects/whosgotnext.png";
 import L_BABYVISION from "../../assets/img/projects/babyvision.png";
 import L_ROBOTICCAR from "../../assets/img/projects/roboticcar.png";
 import L_DANCINGROBOT from "../../assets/img/projects/dancingrobot.png";
+import L_NBAFANTASYLEAGUE from "../../assets/img/projects/nbafantasyleague.png";
 
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
@@ -23,6 +24,11 @@ import L_CIRCUIT from "../../assets/img/skills/circuit.png";
 import L_FLASK from "../../assets/img/skills/flask.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_ANDROID from "../../assets/img/skills/android.svg";
+import L_PHP from "../../assets/img/skills/php.svg";
+import L_HTML5 from "../../assets/img/skills/html-5.svg";
+import L_CSS3 from "../../assets/img/skills/css3.svg";
+import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
+import L_ORACLE from "../../assets/img/skills/oracle.svg";
 
 import "./projects-timeline.styles.css";
 
@@ -32,6 +38,72 @@ const TimeLine = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
+
+          {/* NBA Fantasy League */}
+          <ImageEvent date="April 2020" className="text-center" text="NBA Fantasy League" src={L_NBAFANTASYLEAGUE} alt="NBA Fantasy League">
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle as={Card.Header} eventKey="0" className="p-2 text-center accordian-main">
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> An online NBA Fantasy League web application where users can assemble imaginary teams of real players from the NBA. Each team’s performance depends on the statistical performance of those players in real-time NBA games.
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>User registration and login</li>
+                          <li>Create and join fantasy leagues</li>
+                          <li>Build teams and sign free agents</li>
+                          <li>Request and perform trades with other teams</li>
+                          <li>Team customization and branding</li>
+                        </ul>
+                        <hr />
+                        <strong>Technologies used:</strong><br /><br />
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_JAVASCRIPT} alt="JavaScript" rounded className="image-style1 m-1"></Image> JavaScript
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_HTML5} alt="React Native" rounded className="image-style1 m-1"></Image> HTML5
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_CSS3} alt="CSS3" rounded className="image-style1 m-1"></Image> CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_PHP} alt="PHP" rounded className="image-style1 m-1"></Image> PHP
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_ORACLE} alt="Oracle and SQL" rounded className="image-style1 m-1"></Image> Oracle and SQL
+                            </span>
+                          </li>
+                        </ul>
+                        <hr />
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="text-center">
+                <UrlButton href="https://www.bit.ly/2ZdTKKw" target="_blank">
+                  READ MORE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+
           {/* DE-TRON */}
           <ImageEvent date="February 2020" className="text-center" text="DE-TRON" src={L_DETRON} alt="DE-TRON">
             <div className="d-flex justify-content-between flex-column mt-1">
