@@ -31,7 +31,7 @@ const Experience = () => {
                                     <br />
                                     <strong>Technologies:</strong> Java, Spring Boot, AngularJS, JUnit, Jest and Selenium
                                     <br />
-                                    <strong>Duration:</strong> January 2021 - August 2021
+                                    <strong>Duration:</strong> January 2021 - Present
                                 </Card.Text>
                                 </div>
                             </Card.Body>
