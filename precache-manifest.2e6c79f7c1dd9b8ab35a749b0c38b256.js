@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39bf75faeab37f3071bb602db4af460c",
+    "revision": "68b26601f6c8c707cbb8fc5b54ee08cf",
     "url": "/victor-portfolio/index.html"
   },
   {
-    "revision": "bedfba8c9ad9ba12e398",
-    "url": "/victor-portfolio/static/css/main.1d51ff31.chunk.css"
+    "revision": "8dbf17fbe9763e96e58e",
+    "url": "/victor-portfolio/static/css/main.bb02d93c.chunk.css"
   },
   {
-    "revision": "cafcd3a3820265f17565",
-    "url": "/victor-portfolio/static/js/2.665d3692.chunk.js"
+    "revision": "b080fe81dc05bc2b2566",
+    "url": "/victor-portfolio/static/js/2.d6026ed8.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/victor-portfolio/static/js/2.665d3692.chunk.js.LICENSE.txt"
+    "url": "/victor-portfolio/static/js/2.d6026ed8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bedfba8c9ad9ba12e398",
-    "url": "/victor-portfolio/static/js/main.eab90e65.chunk.js"
+    "revision": "8dbf17fbe9763e96e58e",
+    "url": "/victor-portfolio/static/js/main.948a73c2.chunk.js"
   },
   {
     "revision": "ba6604d7e418ea73caa3",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "add239172d50d6ad18d2ac3cea6257a1",
     "url": "/victor-portfolio/static/media/digital-ocean.add23917.svg"
+  },
+  {
+    "revision": "d88559b93fd96b58c4b682d64c2674ac",
+    "url": "/victor-portfolio/static/media/elderaid.d88559b9.png"
   },
   {
     "revision": "c6bab64b183f96aa47077fd3db37afd0",
@@ -132,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/victor-portfolio/static/media/rapidserve.56176917.png"
   },
   {
-    "revision": "83fe61b05935f090b671b08aeb77b63d",
-    "url": "/victor-portfolio/static/media/react-bootstrap.83fe61b0.svg"
+    "revision": "ef194ddf5faf63cb6cc580a4535be695",
+    "url": "/victor-portfolio/static/media/react-bootstrap.ef194ddf.svg"
   },
   {
     "revision": "024196716802e272adb3cbefb81fd557",
