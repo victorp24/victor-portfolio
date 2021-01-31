@@ -2,6 +2,7 @@ import React from "react";
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 
 // projects
+import L_ELDERAID from "../../assets/img/projects/elderaid.png";
 import L_DETRON from "../../assets/img/projects/de-tron.png";
 import L_RAPIDSERVE from "../../assets/img/projects/rapidserve.png";
 import L_WHOSGOTNEXT from "../../assets/img/projects/whosgotnext.png";
@@ -38,6 +39,67 @@ const TimeLine = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
+
+          {/* ElderAid */}
+          <ImageEvent date="January 2021" className="text-center" text="ElderAid for COVID19 (nwHacks 2021 Submission)" src={L_ELDERAID} alt="ElderAid">
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle as={Card.Header} eventKey="0" className="p-2 text-center accordian-main">
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> A web app to help seniors get the support they need during the pandemic in completing essential everyday tasks that could potentially expose them to the virus (grocery shopping, picking up medicine, etc). The app partners seniors with healthy and tested volunteering adults who are eager to help.
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Seniors and Volunteers Registration and Login</li>
+                          <li>Admin Verification of Volunteers' COVID19 Test Results</li>
+                          <li>Senior and Volunteer Matching System based on Location Proximity</li>
+                          <li>Profile Customization</li>
+                          <li>Senior to Volunteer Partner Invites</li>
+                          <li>Volunteer to Senior Invitation Acceptance/Rejection</li>
+                        </ul>
+                        <hr />
+                        <strong>Technologies used:</strong><br /><br />
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_REACT} alt="React" rounded className="image-style1 m-1"></Image> React
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_NODE_JS} alt="Node.js" rounded className="image-style1 m-1"></Image> Node.js
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_EXPRESS} alt="Express" rounded className="image-style1 m-1"></Image> Express
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image src={L_MONGODB} alt="MongoDB" rounded className="image-style1 m-1"></Image> MongoDB
+                            </span>
+                          </li>
+                        </ul>
+                        <hr />
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="text-center">
+                <UrlButton href="http://bit.ly/3cuZqan" target="_blank">
+                  READ MORE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
 
           {/* NBA Fantasy League */}
           <ImageEvent date="April 2020" className="text-center" text="NBA Fantasy League" src={L_NBAFANTASYLEAGUE} alt="NBA Fantasy League">
@@ -176,7 +238,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> A mobile app that streamlines bill payment at restaurants by using a QR code/scanner at each table. Awarded the 'Best Use of MongoDB Atlas' award at nwHacks 2020, the largest hackathon in all of Western Canada.
+                        <strong>Description:</strong> A mobile app that streamlines bill payment at restaurants by using a QR code at each table for digital and contact-free transactions, allowing for increased business efficiency and better customer experience. Awarded the 'Best Use of MongoDB Atlas' award at nwHacks 2020, the largest hackathon in all of Western Canada.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">

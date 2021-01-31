@@ -19,9 +19,35 @@ import L_CPLUSPLUS from "../../assets/img/skills/cplusplus.svg";
 import L_ORACLE from "../../assets/img/skills/oracle.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_ANDROID from "../../assets/img/skills/android.svg";
+import L_SPRINGBOOT from "../../assets/img/skills/springboot.png";
+import L_ANGULARJS from "../../assets/img/skills/angularjs.png"
 
 export const skills = {
   frontend: [
+    {
+      link: "https://reactjs.org/",
+      imgAltText: "ReactJS",
+      imgSrc: L_REACT,
+      skillName: "ReactJS",
+    },
+    {
+      link: "https://angularjs.org/",
+      imgAltText: "AngularJS",
+      imgSrc: L_ANGULARJS,
+      skillName: "AngularJS",
+    },
+    {
+      link: "https://reactnative.dev/",
+      imgAltText: "React Native",
+      imgSrc: L_REACT,
+      skillName: "React Native",
+    },
+    {
+      link: "https://react-bootstrap.github.io/",
+      imgAltText: "React Bootstrap",
+      imgSrc: L_REACT_BOOTSTRAP,
+      skillName: "React Bootstrap",
+    },
     {
       link: "https://en.wikipedia.org/wiki/HTML5",
       imgAltText: "HTML 5",
@@ -47,30 +73,6 @@ export const skills = {
       skillName: "Bootstrap",
     },
     {
-      link: "https://reactjs.org/",
-      imgAltText: "React JS",
-      imgSrc: L_REACT,
-      skillName: "React JS",
-    },
-    {
-      link: "https://reacttraining.com/react-router/",
-      imgAltText: "React Router",
-      imgSrc: L_REACT_ROUTER,
-      skillName: "React Router",
-    },
-    {
-      link: "https://react-bootstrap.github.io/",
-      imgAltText: "React Bootstrap",
-      imgSrc: L_REACT_BOOTSTRAP,
-      skillName: "React Bootstrap",
-    },
-    {
-        link: "https://reactnative.dev/",
-        imgAltText: "React Native",
-        imgSrc: L_REACT,
-        skillName: "React Native",
-    },
-    {
         link: "https://developer.android.com/",
         imgAltText: "Android Development",
         imgSrc: L_ANDROID,
@@ -80,15 +82,21 @@ export const skills = {
   backend: [
     {
       link: "https://nodejs.org/en/",
-      imgAltText: "Node.js",
+      imgAltText: "NodeJS",
       imgSrc: L_NODE_JS,
-      skillName: "Node.js",
+      skillName: "NodeJS",
     },
     {
       link: "https://expressjs.com/",
       imgAltText: "Express",
       imgSrc: L_EXPRESS,
       skillName: "Express",
+    },
+    {
+      link: "https://spring.io/projects/spring-boot",
+      imgAltText: "Spring Boot",
+      imgSrc: L_SPRINGBOOT,
+      skillName: "Spring Boot",
     },
   ],
   hostingPlatforms: [
@@ -97,12 +105,6 @@ export const skills = {
       imgAltText: "Heroku",
       imgSrc: L_HEROKU,
       skillName: "Heroku",
-    },
-    {
-      link: "https://www.digitalocean.com/",
-      imgAltText: "Digital Ocean",
-      imgSrc: L_DIGITAL_OCEAN,
-      skillName: "Digital Ocean",
     },
     {
       link: "https://pages.github.com/",

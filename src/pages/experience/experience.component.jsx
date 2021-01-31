@@ -48,11 +48,11 @@ const Experience = () => {
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
-                                <Card.Title className="text-center">Junior Escalations Engineer</Card.Title>
+                                <Card.Title className="text-center">Junior SDK Support Engineer</Card.Title>
                                 </div>
                                 <div>
                                 <Card.Text className="text-center style">
-                                    <strong>Division:</strong> B2B Product Support Team (Knox SDK)
+                                    <strong>Division:</strong> B2B Product Support and Escalations Team (Knox SDK)
                                     <br /><br />
                                     <strong>Description:</strong> Developed Android Applications to reproduce enterprise partners' issues with the Samsung Knox SDK. Troubleshot issues ranging from Knox product configuration to API support for MDM solutions.
                                     <br />

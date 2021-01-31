@@ -27,8 +27,8 @@ const About = () => {
                                 Hey there! I'm <strong>&nbsp;Victor Angelo Parangue.</strong> I'm a 4th year Computer Engineering student currently studying at the University of British Columbia.
                                 <br /><br />
                                 {/* I'm currently a member of the UBC COOP program. I'm working as a Junior SDK Support Engineer at SAMSUNG Research and Development Canada. */}
-                                I'm currently a member of the UBC Co-op program. I am currently working as a Junior Software Engineer at Tasktop Technologies Incorporated. 
-                                I also have former experience as a Junior Escalations Engineer at SAMSUNG Research and Development Canada.
+                                I'm a member of the UBC Co-op program. I'm currently working as a Junior Software Engineer at Tasktop Technologies Incorporated. 
+                                I also have former experience as a Junior SDK Support Engineer at SAMSUNG Research and Development Canada.
                                 <br /><br />
                                 Outside of work, I enjoy creating web and mobile applications and participating in major hackathons. My other passions include basketball, video games, playing the piano, and creating solutions that make software delivery and development more efficient.
                                 <br /><br />
