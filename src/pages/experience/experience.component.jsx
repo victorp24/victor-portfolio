@@ -12,7 +12,7 @@ const Experience = () => {
     return (
         <div id='experience'>
             <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
-            {/* <Jumbotron className="jumbo-style">
+            <Jumbotron className="jumbo-style">
                 <Container>
                     <Tilt options={{max: 25}}>
                         <Card>
@@ -21,15 +21,15 @@ const Experience = () => {
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
-                                <Card.Title className="text-center">(Incoming) Junior Software Engineer</Card.Title>
+                                <Card.Title className="text-center">Junior Software Engineer</Card.Title>
                                 </div>
                                 <div>
                                 <Card.Text className="text-center style">
                                     <strong>Division:</strong> Tasktop Hub Team
                                     <br /><br />
-                                    <strong>Description:</strong> Will develop, test, and maintain Tasktop products, development tools, and frameworks. Will perform software testing to ensure the quality and stability of features in development.
+                                    <strong>Description:</strong> Develop, test, and maintain Tasktop Hub features, development tools, and frameworks. Perform software testing to ensure the quality and stability of features in development.
                                     <br />
-                                    <strong>Technologies:</strong> Java, JUnit, and Spring Boot
+                                    <strong>Technologies:</strong> Java, Spring Boot, AngularJS, JUnit, Jest and Selenium
                                     <br />
                                     <strong>Duration:</strong> January 2021 - August 2021
                                 </Card.Text>
@@ -38,7 +38,7 @@ const Experience = () => {
                         </Card>
                     </Tilt>
                 </Container>
-            </Jumbotron> */}
+            </Jumbotron>
             <Jumbotron className="jumbo-style">
                 <Container>
                     <Tilt options={{max: 25}}>
@@ -48,15 +48,15 @@ const Experience = () => {
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
-                                <Card.Title className="text-center">Junior SDK Support Engineer</Card.Title>
+                                <Card.Title className="text-center">Junior Escalations Engineer</Card.Title>
                                 </div>
                                 <div>
                                 <Card.Text className="text-center style">
-                                    <strong>Division:</strong> B2B Operations Team
+                                    <strong>Division:</strong> B2B Product Support Team (Knox SDK)
                                     <br /><br />
                                     <strong>Description:</strong> Developed Android Applications to reproduce enterprise partners' issues with the Samsung Knox SDK. Troubleshot issues ranging from Knox product configuration to API support for MDM solutions.
                                     <br />
-                                    <strong>Technologies:</strong> Java, Android Development, and the Samsung Knox SDK
+                                    <strong>Technologies:</strong> Java, Android Development and the Samsung Knox SDK
                                     <br />
                                     <strong>Duration:</strong> May 2020 - December 2020
                                 </Card.Text>
