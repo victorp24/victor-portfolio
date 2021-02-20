@@ -27,16 +27,16 @@ const ContactForm = () => {
               </a>
             </div>
             <div className="m-2">
-              <a href="https://www.facebook.com/victor.parangue/" target="_blank" rel="noopener noreferrer">
-                <Button variant="outline-primary" title="Add me on FB">
-                  <i className="fab fa-facebook-square"></i> FaceBook
+              <a href="https://github.com/victorp24" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline-dark" title="Take a peek at my projects">
+                  <i className="fab fa-github-square"></i> GitHub
                 </Button>
               </a>
             </div>
             <div className="m-2">
-              <a href="https://github.com/victorp24" target="_blank" rel="noopener noreferrer">
-                <Button variant="outline-dark" title="Take a peek at my projects">
-                  <i className="fab fa-github-square"></i> GitHub
+              <a href="https://www.facebook.com/victor.parangue/" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline-primary" title="Add me on FB">
+                  <i className="fab fa-facebook-square"></i> Facebook
                 </Button>
               </a>
             </div>

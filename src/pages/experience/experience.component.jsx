@@ -5,6 +5,7 @@ import Card from 'react-bootstrap/Card';
 import Tilt from 'react-tilt';
 import L_TASKTOP from "../../assets/img/experience/tasktop.png";
 import L_SAMSUNG from "../../assets/img/experience/samsung.png";
+import L_MASTERCARD from "../../assets/img/experience/mastercard.png";
 
 import "./experience.style.css";
 
@@ -17,7 +18,34 @@ const Experience = () => {
                     <Tilt options={{max: 25}}>
                         <Card>
                             <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-                                <Card.Img variant="top" className="img-resize" src={L_TASKTOP} alt="Accenture logo" />
+                                <Card.Img variant="top" className="img-resize" src={L_MASTERCARD} alt="Mastercard logo" />
+                            </Card.Header>
+                            <Card.Body className="d-flex justify-content-center flex-column">
+                                <div>
+                                <Card.Title className="text-center">Incoming Software Development Engineer Intern</Card.Title>
+                                </div>
+                                <div>
+                                <Card.Text className="text-center style">
+                                    <strong>Division:</strong> Operations and Technology Team
+                                    <br /><br />
+                                    <strong>Description:</strong> TBD
+                                    <br />
+                                    <strong>Technologies:</strong> TBD
+                                    <br />
+                                    <strong>Duration:</strong> September 2021 - April 2022
+                                </Card.Text>
+                                </div>
+                            </Card.Body>
+                        </Card>
+                    </Tilt>
+                </Container>
+            </Jumbotron>
+            <Jumbotron className="jumbo-style">
+                <Container>
+                    <Tilt options={{max: 25}}>
+                        <Card>
+                            <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+                                <Card.Img variant="top" className="img-resize" src={L_TASKTOP} alt="Tasktop logo" />
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
@@ -31,7 +59,7 @@ const Experience = () => {
                                     <br />
                                     <strong>Technologies:</strong> Java, Spring Boot, AngularJS, JUnit, Jest and Selenium
                                     <br />
-                                    <strong>Duration:</strong> January 2021 - Present
+                                    <strong>Duration:</strong> January - August 2021 
                                 </Card.Text>
                                 </div>
                             </Card.Body>
@@ -44,21 +72,21 @@ const Experience = () => {
                     <Tilt options={{max: 25}}>
                         <Card>
                             <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-                                <Card.Img variant="top" className="img-resize" src={L_SAMSUNG} alt="Accenture logo" />
+                                <Card.Img variant="top" className="img-resize" src={L_SAMSUNG} alt="Samsung logo" />
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
-                                <Card.Title className="text-center">Junior SDK Support Engineer</Card.Title>
+                                <Card.Title className="text-center">Junior Escalations Engineer</Card.Title>
                                 </div>
                                 <div>
                                 <Card.Text className="text-center style">
-                                    <strong>Division:</strong> B2B Product Support and Escalations Team (Knox SDK)
+                                    <strong>Division:</strong> B2B Operations
                                     <br /><br />
                                     <strong>Description:</strong> Developed Android Applications to reproduce enterprise partners' issues with the Samsung Knox SDK. Troubleshot issues ranging from Knox product configuration to API support for MDM solutions.
                                     <br />
                                     <strong>Technologies:</strong> Java, Android Development and the Samsung Knox SDK
                                     <br />
-                                    <strong>Duration:</strong> May 2020 - December 2020
+                                    <strong>Duration:</strong> May - December 2020
                                 </Card.Text>
                                 </div>
                             </Card.Body>
