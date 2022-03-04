@@ -28,9 +28,7 @@ const Experience = () => {
                                 <Card.Text className="text-center style">
                                     <strong>Division:</strong> Operations and Technology Team
                                     <br /><br />
-                                    <strong>Description:</strong> TBD
-                                    <br />
-                                    <strong>Technologies:</strong> TBD
+                                    <strong>Technologies:</strong> Java, Spring, Splunk, Chef Habitat, and Jenkins
                                     <br />
                                     <strong>Duration:</strong> September 2021 - April 2022
                                 </Card.Text>
@@ -55,8 +53,6 @@ const Experience = () => {
                                 <Card.Text className="text-center style">
                                     <strong>Division:</strong> Tasktop Hub Team
                                     <br /><br />
-                                    <strong>Description:</strong> Develop, test, and maintain Tasktop Hub features, development tools, and frameworks. Perform software testing to ensure the quality and stability of features in development.
-                                    <br />
                                     <strong>Technologies:</strong> Java, Spring Boot, AngularJS, JUnit, Jest and Selenium
                                     <br />
                                     <strong>Duration:</strong> January - August 2021 
@@ -82,8 +78,6 @@ const Experience = () => {
                                 <Card.Text className="text-center style">
                                     <strong>Division:</strong> B2B Operations
                                     <br /><br />
-                                    <strong>Description:</strong> Developed Android Applications to reproduce enterprise partners' issues with the Samsung Knox SDK. Troubleshot issues ranging from Knox product configuration to API support for MDM solutions.
-                                    <br />
                                     <strong>Technologies:</strong> Java, Android Development and the Samsung Knox SDK
                                     <br />
                                     <strong>Duration:</strong> May - December 2020

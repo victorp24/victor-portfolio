@@ -17,7 +17,7 @@ const About = () => {
                         {/* Profile Picture */}
                         <Col xs={12} md={6}>
                             <Row className="justify-content-center mb-2 mr-2">
-                                <Image className="profile justify-content-end p-2" alt="profile" src={Profile} roundedCircle fluid/>
+                                <Image className="profile justify-content-end p-2" alt="profile" src={Profile}/>
                             </Row>
                         </Col>
                         {/* Personal Description */}
@@ -30,7 +30,7 @@ const About = () => {
                                 I'm currently working as a Software Development Engineer Intern at Mastercard.
                                 Previously, I was working as a Junior Software Engineer at Tasktop Technologies. I also have former experience as a Junior Escalations Engineer at SAMSUNG Research and Development Canada.
                                 <br /><br />
-                                Outside of work, I enjoy creating web and mobile applications and participating in major hackathons. My other passions include basketball, video games, playing the piano, and creating solutions that make software delivery and development more efficient.
+                                Outside of work, I enjoy creating web and mobile applications and participating in major hackathons. My other hobbies include playing basketball, golf, piano, and cooking.
                                 <br /><br />
                                 <Row>
                                     {/* Button links */}

@@ -33,7 +33,7 @@ const ContactForm = () => {
                 </Button>
               </a>
             </div>
-            <div className="m-2">
+            {/* <div className="m-2">
               <a href="https://www.facebook.com/victor.parangue/" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-primary" title="Add me on FB">
                   <i className="fab fa-facebook-square"></i> Facebook
@@ -46,7 +46,7 @@ const ContactForm = () => {
                   <i className="fab fa-instagram"></i> Instagram
                 </Button>
               </a>
-            </div>
+            </div> */}
           </Col>
         </Row>
       </Jumbotron>
