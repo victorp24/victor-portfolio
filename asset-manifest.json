@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/victor-portfolio/static/css/main.bb02d93c.chunk.css",
-    "main.js": "/victor-portfolio/static/js/main.0cd2041e.chunk.js",
-    "main.js.map": "/victor-portfolio/static/js/main.0cd2041e.chunk.js.map",
+    "main.js": "/victor-portfolio/static/js/main.4f4af4f7.chunk.js",
+    "main.js.map": "/victor-portfolio/static/js/main.4f4af4f7.chunk.js.map",
     "runtime-main.js": "/victor-portfolio/static/js/runtime-main.4392e4fa.js",
     "runtime-main.js.map": "/victor-portfolio/static/js/runtime-main.4392e4fa.js.map",
-    "static/js/2.79d9c302.chunk.js": "/victor-portfolio/static/js/2.79d9c302.chunk.js",
-    "static/js/2.79d9c302.chunk.js.map": "/victor-portfolio/static/js/2.79d9c302.chunk.js.map",
+    "static/js/2.816a46b9.chunk.js": "/victor-portfolio/static/js/2.816a46b9.chunk.js",
+    "static/js/2.816a46b9.chunk.js.map": "/victor-portfolio/static/js/2.816a46b9.chunk.js.map",
     "index.html": "/victor-portfolio/index.html",
-    "precache-manifest.ce5bd3d9f8cf37a0cc7aaea38840ad02.js": "/victor-portfolio/precache-manifest.ce5bd3d9f8cf37a0cc7aaea38840ad02.js",
+    "precache-manifest.00666fcd21ea54f71b0e6b27705bb0df.js": "/victor-portfolio/precache-manifest.00666fcd21ea54f71b0e6b27705bb0df.js",
     "service-worker.js": "/victor-portfolio/service-worker.js",
     "static/css/main.bb02d93c.chunk.css.map": "/victor-portfolio/static/css/main.bb02d93c.chunk.css.map",
-    "static/js/2.79d9c302.chunk.js.LICENSE.txt": "/victor-portfolio/static/js/2.79d9c302.chunk.js.LICENSE.txt",
+    "static/js/2.816a46b9.chunk.js.LICENSE.txt": "/victor-portfolio/static/js/2.816a46b9.chunk.js.LICENSE.txt",
     "static/media/android.svg": "/victor-portfolio/static/media/android.99d0b7b1.svg",
     "static/media/babyvision.png": "/victor-portfolio/static/media/babyvision.97ef46ad.png",
     "static/media/background.webp": "/victor-portfolio/static/media/background.bf989778.webp",
@@ -37,7 +37,7 @@
     "static/media/nodejs.svg": "/victor-portfolio/static/media/nodejs.a1231528.svg",
     "static/media/oracle.svg": "/victor-portfolio/static/media/oracle.6400ba46.svg",
     "static/media/php.svg": "/victor-portfolio/static/media/php.176a41f0.svg",
-    "static/media/profile.JPG": "/victor-portfolio/static/media/profile.70219def.JPG",
+    "static/media/profile.JPG": "/victor-portfolio/static/media/profile.5e9c0210.JPG",
     "static/media/python.svg": "/victor-portfolio/static/media/python.146716bd.svg",
     "static/media/rapidserve.png": "/victor-portfolio/static/media/rapidserve.56176917.png",
     "static/media/react-bootstrap.svg": "/victor-portfolio/static/media/react-bootstrap.ef194ddf.svg",
@@ -53,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4392e4fa.js",
-    "static/js/2.79d9c302.chunk.js",
+    "static/js/2.816a46b9.chunk.js",
     "static/css/main.bb02d93c.chunk.css",
-    "static/js/main.0cd2041e.chunk.js"
+    "static/js/main.4f4af4f7.chunk.js"
   ]
 }
