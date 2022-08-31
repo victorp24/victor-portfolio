@@ -24,13 +24,11 @@ const About = () => {
                         <Col xs={12} md={6}>
                             <Row className="align-items-start p-4 my-details rounded">
                                 {/* Description */}
-                                Hey there! I'm <strong>&nbsp;Victor Angelo Parangue.</strong> I'm a 4th year Computer Engineering student currently studying at the University of British Columbia.
+                                Hey there! My name is <strong>&nbsp;Victor Angelo Parangue.</strong> I am a 4th year Computer Engineering student currently studying at the University of British Columbia.
                                 <br /><br />
-                                {/* I'm currently a member of the UBC COOP program. I'm working as a Junior SDK Support Engineer at SAMSUNG Research and Development Canada. */}
-                                I'm currently working as a Software Development Engineer Intern at Mastercard.
-                                Previously, I was working as a Junior Software Engineer at Tasktop Technologies. I also have former experience as a Junior Escalations Engineer at SAMSUNG Research and Development Canada.
+                                Through my personal projects, university courses, and 28 months of co-op experience, I discovered my passion for Software Engineering. I love learning about the software development lifecycle. I enjoy working full-stack and being responsible for delivering features and products end-to-end.
                                 <br /><br />
-                                Outside of work, I enjoy creating web and mobile applications and participating in major hackathons. My other hobbies include playing basketball, golf, piano, and cooking.
+                                Outside of school and work, I enjoy participating in hackathons and creating solutions that tackle pressing problems in today's world. My other hobbies include playing basketball, cooking, and searching for the best food places in the city!
                                 <br /><br />
                                 <Row>
                                     {/* Button links */}

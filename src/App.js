@@ -41,17 +41,17 @@ const App = () => {
         </Parallax>
       </div>
       <Container className="container-box rounded">
-        <Slide bottom duration={500}>
+        <Fade duration={500}>
           <hr />
-          <Skills />
-        </Slide>
+          <Experience />
+        </Fade>
       </Container>
       <div>
         <Container className="container-box rounded">
-          <Fade duration={500}>
+          <Slide bottom duration={500}>
             <hr />
-            <Experience />
-          </Fade>
+            <Skills />
+          </Slide>
         </Container>
       </div>
       <Container className="container-box rounded">

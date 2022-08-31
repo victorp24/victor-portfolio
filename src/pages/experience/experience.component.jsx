@@ -22,7 +22,7 @@ const Experience = () => {
                             </Card.Header>
                             <Card.Body className="d-flex justify-content-center flex-column">
                                 <div>
-                                <Card.Title className="text-center">Software Development Engineer Intern</Card.Title>
+                                <Card.Title className="text-center">Software Engineer Intern</Card.Title>
                                 </div>
                                 <div>
                                 <Card.Text className="text-center style">
@@ -30,7 +30,7 @@ const Experience = () => {
                                     <br /><br />
                                     <strong>Technologies:</strong> Java, Spring, Splunk, Chef Habitat, and Jenkins
                                     <br />
-                                    <strong>Duration:</strong> September 2021 - April 2022
+                                    <strong>Duration:</strong> September 2021 - May 2022
                                 </Card.Text>
                                 </div>
                             </Card.Body>
